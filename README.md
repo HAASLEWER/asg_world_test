@@ -1,10 +1,10 @@
 # asg_world_test
 
 # Prerequisites
-Linux
-Apache 
-Mysql
-PHP
+Linux<br />
+Apache <br />
+Mysql<br />
+PHP<br />
 
 # Installation
 1. If you do not have the codebase run: git clone git@github.com:HAASLEWER/asg_world_test.git assuming you have your ssh agent setup.  Otherwise use https in order to clone.
