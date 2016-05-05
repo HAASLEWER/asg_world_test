@@ -6,4 +6,4 @@ read host
 echo "Please specify mysql username:"
 read username
 
-mysql -h $host -u $username -p contact_manager < db_primer.sql
+mysql -h $host -u $username -p < db_primer.sql
